@@ -1,0 +1,49 @@
+.navbar-dark .navbar-brand {
+  width: 10%;
+}
+.vinil-logo {
+  width: 100%;
+}
+
+.navbar-dark {
+  background-color: #000;
+}
+
+.carousel-item {
+  height: 70vh;
+}
+
+.experience-container {
+  width: 60%;
+}
+
+.team-image {
+  width: 35vw;
+  height: 40vw;
+  background-image: url(../img/team.jpeg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  align-self: flex-end !important;
+}
+
+@media (max-width: 992px) {
+  .experience-container {
+    width: 70%;
+  }
+
+  .team-image {
+    width: 50vw;
+    height: 70vw;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar-dark .navbar-brand {
+    width: 20%;
+  }
+
+  .team-image {
+    width: 80vw;
+  }
+}
