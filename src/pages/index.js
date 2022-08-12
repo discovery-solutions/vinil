@@ -12,8 +12,10 @@ export default function Pages() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={ <Wrapper component={ <Home/> } /> }/>
-        <Route path="*" element={ <Navigate to="/" replace /> }/>
+        <Route path="*" element={ <Wrapper component={ <Home/> } /> }/>
+        {/*
+          <Route path="*" element={ <Navigate to="/" replace /> }/>
+        */}
       </Routes>
     </BrowserRouter>
   );
