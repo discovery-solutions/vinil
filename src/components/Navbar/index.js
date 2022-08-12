@@ -1,4 +1,5 @@
 import strings from "utilities/strings";
+import logo from "assets/img/logo.png";
 
 export default function Navbar() {
   const homeLink = window.location.pathname === "/" ? "#inicio" : "/";
@@ -6,7 +7,7 @@ export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
       <a href="/" className="navbar-brand ms-4 ms-lg-0">
-        <img className="vinil-logo" src="img/logo.png" alt="Image"/>
+        <img className="vinil-logo" src={ logo } alt="Image"/>
       </a>
 
       <button type="button" className="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

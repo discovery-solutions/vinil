@@ -1,4 +1,5 @@
 import strings from "utilities/strings";
+import workingTime from "assets/img/working-time.jpeg";
 
 export default function WorkingTime() {
   return (
@@ -7,7 +8,7 @@ export default function WorkingTime() {
         <div className="row g-0">
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
             <div className="h-100">
-              <img className="img-fluid h-100" src="img/working-time.jpeg" alt={ strings.workingTime.title } style={{ objectFit: "cover" }}/>
+              <img className="img-fluid h-100" src={ workingTime } alt={ strings.workingTime.title } style={{ objectFit: "cover" }}/>
             </div>
           </div>
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">

@@ -1,3 +1,16 @@
+import carousel1 from "assets/img/carousel-1.jpg";
+import carousel2 from "assets/img/carousel-2.jpg";
+
+import haircut from "assets/img/haircut.png";
+import beardTrim from "assets/img/beard-trim.png";
+import mansShave from "assets/img/mans-shave.png";
+import hairDyeing from "assets/img/hair-dyeing.png";
+
+import wallace from "assets/img/wallace-mendes.jpeg";
+import gleyson from "assets/img/gleyson-augusto.jpeg";
+import alan from "assets/img/alan-noevo.jpeg";
+import gabriel from "assets/img/gabriel-robson.jpeg";
+
 export default {
   address: "Rua Doutor Epitácio Pessoa, 193 - Embaré, Santos",
   phone: "(13) 99118-1310",
@@ -23,10 +36,13 @@ export default {
   },
 
   hero: {
-    title: {
-      "1": "Venha ficar no melhor estilo que você já teve",
-      "2": "Os melhores cortes por preços acessíveis",
-    },
+    items: [{
+      image: carousel1,
+      title: "Venha ficar no melhor estilo que você já teve",
+    }, {
+      image: carousel2,
+      title: "Os melhores cortes por preços acessíveis",
+    }]
   },
   about: {
     title: "Sobre nós",
@@ -54,27 +70,27 @@ export default {
     items: [{
       title: "Corte masculino",
       text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.",
-      icon: "img/haircut.png",
+      icon: haircut,
     }, {
       title: "Barba",
       text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.",
-      icon: "img/beard-trim.png",
+      icon: beardTrim,
     }, {
       title: "Barba + Corte Masculino",
       text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.",
-      icon: "img/mans-shave.png",
+      icon: mansShave,
     }, {
       title: "Corte Infantil",
       text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.",
-      icon: "img/haircut.png",
+      icon: haircut,
     }, {
       title: "Barba + Pigmentação",
       text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.",
-      icon: "img/hair-dyeing.png",
+      icon: hairDyeing,
     }, {
       title: "Selagem + Corte Masculino",
       text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam.",
-      icon: "img/haircut.png",
+      icon: haircut
     }]
   },
   pricing: {
@@ -131,19 +147,19 @@ export default {
     title: "Equipe",
     subtitle: "Conheça nossa equipe",
     barbers: [{
-      avatar: "img/wallace-mendes.jpeg",
+      avatar: wallace,
       name: "Wallace Mendes",
       instagram: "https://www.instagram.com/wallace_vinil/",
     }, {
-      avatar: "img/gleyson-augusto.jpeg",
+      avatar: gleyson,
       name: "Gleyson Augusto",
       instagram: "https://www.instagram.com/gleysonaugusto013/",
     }, {
-      avatar: "img/alan-noevo.jpeg",
+      avatar: alan,
       name: "Alan Noevo",
       instagram: "https://www.instagram.com/alanoevo/",
     }, {
-      avatar: "img/gabriel-robson.jpeg",
+      avatar: gabriel,
       name: "Gabriel Robson",
       instagram: "https://www.instagram.com/gabrielrobson/",
     }]

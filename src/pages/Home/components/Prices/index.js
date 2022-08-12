@@ -1,4 +1,5 @@
 import strings from "utilities/strings";
+import price from "assets/img/price.jpg";
 
 export default function Prices() {
   return (
@@ -21,7 +22,7 @@ export default function Prices() {
           </div>
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
             <div className="h-100">
-              <img className="img-fluid h-100" src="img/price.jpg" alt=""/>
+              <img className="img-fluid h-100" src={ price } alt=""/>
             </div>
           </div>
         </div>
