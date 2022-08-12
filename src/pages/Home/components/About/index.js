@@ -1,4 +1,5 @@
 import strings from "utilities/strings";
+import team from "assets/img/team.jpeg";
 
 export default function About() {
   return (
@@ -7,7 +8,7 @@ export default function About() {
         <div className="row g-5">
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
             <div className="d-flex flex-column">
-              <div className="team-image"></div>
+              <div className="team-image" style={{ backgroundImage: `url(${ team })` }}></div>
 
               <div className="experience-container bg-secondary p-5" style={{ marginTop: "-25%" }}>
                 <h1 className="text-uppercase text-primary mb-3">{ strings.about.experience.years }</h1>
