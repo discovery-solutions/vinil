@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/vinil/static/js/main.faacf5e3.js",
+    "main.js": "/vinil/static/js/main.a305dd7b.js",
     "static/media/alan-noevo.jpeg": "/vinil/static/media/alan-noevo.3865b5d707e069cf3e70.jpeg",
     "static/media/wallace-mendes.jpeg": "/vinil/static/media/wallace-mendes.835d6b851525b9e3919d.jpeg",
     "static/media/gleyson-augusto.jpeg": "/vinil/static/media/gleyson-augusto.dabf8ff621cf64500636.jpeg",
@@ -11,9 +11,9 @@
     "static/media/carousel-1.jpg": "/vinil/static/media/carousel-1.82a1bcf4aded41d1d971.jpg",
     "static/media/carousel-2.jpg": "/vinil/static/media/carousel-2.c380af86ef9816116920.jpg",
     "index.html": "/vinil/index.html",
-    "main.faacf5e3.js.map": "/vinil/static/js/main.faacf5e3.js.map"
+    "main.a305dd7b.js.map": "/vinil/static/js/main.a305dd7b.js.map"
   },
   "entrypoints": [
-    "static/js/main.faacf5e3.js"
+    "static/js/main.a305dd7b.js"
   ]
 }
