@@ -20,7 +20,6 @@
 .team-image {
   width: 35vw;
   height: 40vw;
-  background-image: url(../img/team.jpeg);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
