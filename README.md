@@ -1,4 +1,4 @@
-# Vinil Barbershop
+# Barbershop
 
 | Script     | Description     |
 | :------------- | :------------- |
