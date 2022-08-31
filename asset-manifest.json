@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/vinil/static/js/main.07c6871c.js",
-    "static/media/alan-noevo.jpeg": "/vinil/static/media/alan-noevo.3865b5d707e069cf3e70.jpeg",
-    "static/media/wallace-mendes.jpeg": "/vinil/static/media/wallace-mendes.835d6b851525b9e3919d.jpeg",
-    "static/media/team.jpeg": "/vinil/static/media/team.14143c441b01c7e5c5ee.jpeg",
-    "static/media/gleyson-augusto.jpeg": "/vinil/static/media/gleyson-augusto.dabf8ff621cf64500636.jpeg",
-    "static/media/gabriel-robson.jpeg": "/vinil/static/media/gabriel-robson.45e96b6c7d0d9ea60489.jpeg",
-    "static/media/logo.png": "/vinil/static/media/logo.afb2ef992b7e9302f84c.png",
-    "static/media/price.jpg": "/vinil/static/media/price.6e82b12bf4430d747a9c.jpg",
-    "static/media/working-time.jpeg": "/vinil/static/media/working-time.f11fa7752d48ae63c5ef.jpeg",
-    "static/media/carousel-1.jpg": "/vinil/static/media/carousel-1.82a1bcf4aded41d1d971.jpg",
-    "static/media/carousel-2.jpg": "/vinil/static/media/carousel-2.c380af86ef9816116920.jpg",
-    "index.html": "/vinil/index.html",
-    "main.07c6871c.js.map": "/vinil/static/js/main.07c6871c.js.map"
+    "main.js": "/barbershop/static/js/main.86e6d0ef.js",
+    "static/media/alan-noevo.jpeg": "/barbershop/static/media/alan-noevo.3865b5d707e069cf3e70.jpeg",
+    "static/media/wallace-mendes.jpeg": "/barbershop/static/media/wallace-mendes.835d6b851525b9e3919d.jpeg",
+    "static/media/team.jpeg": "/barbershop/static/media/team.14143c441b01c7e5c5ee.jpeg",
+    "static/media/gleyson-augusto.jpeg": "/barbershop/static/media/gleyson-augusto.dabf8ff621cf64500636.jpeg",
+    "static/media/gabriel-robson.jpeg": "/barbershop/static/media/gabriel-robson.45e96b6c7d0d9ea60489.jpeg",
+    "static/media/logo.png": "/barbershop/static/media/logo.afb2ef992b7e9302f84c.png",
+    "static/media/price.jpg": "/barbershop/static/media/price.6e82b12bf4430d747a9c.jpg",
+    "static/media/working-time.jpeg": "/barbershop/static/media/working-time.f11fa7752d48ae63c5ef.jpeg",
+    "static/media/carousel-1.jpg": "/barbershop/static/media/carousel-1.82a1bcf4aded41d1d971.jpg",
+    "static/media/carousel-2.jpg": "/barbershop/static/media/carousel-2.c380af86ef9816116920.jpg",
+    "index.html": "/barbershop/index.html",
+    "main.86e6d0ef.js.map": "/barbershop/static/js/main.86e6d0ef.js.map"
   },
   "entrypoints": [
-    "static/js/main.07c6871c.js"
+    "static/js/main.86e6d0ef.js"
   ]
 }
